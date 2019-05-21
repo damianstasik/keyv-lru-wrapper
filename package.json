@@ -1,0 +1,19 @@
+{
+  "name": "keyv-lru-wrapper",
+  "description": "Keyv storage adapter wrapper which adds an LRU cache layer",
+  "version": "0.1.0",
+  "keywords": [
+    "keyv",
+    "cache",
+    "lru",
+    "wrapper",
+    "adapter"
+  ],
+  "bugs": "https://github.com/visualfanatic/keyv-lru-wrapper/issues",
+  "repository": "visualfanatic/keyv-lru-wrapper",
+  "author": "Damian Stasik <npm@coded.pl>",
+  "main": "index.js",
+  "dependencies": {
+    "tiny-lru": "^6.0.1"
+  }
+}
